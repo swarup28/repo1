@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4EED-D364
+
+ Directory of C:\Users\sjslm\OneDrive\Desktop\myproject
+
+05/19/2023  12:02 PM    <DIR>          .
+05/19/2023  10:21 AM    <DIR>          ..
+05/19/2023  12:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  395,352,121,344 bytes free
